@@ -21,6 +21,6 @@ Após ele ser enviado para o remoto pela primeira vez, mudanças ficam sendo Mon
 Para arquivos deletados, é mostrada a categoria Deleted (D)
 ![image](https://user-images.githubusercontent.com/74252566/133833782-ade6ec44-22bc-49ce-8f24-ca3a821f8105.png)
 
-
+##
 E é claro, tudo que é feito ... pode ser checado posteriormente </br>
 ![image](https://user-images.githubusercontent.com/74252566/133834047-577167fb-df6d-4969-a59a-c40173b65029.png)
