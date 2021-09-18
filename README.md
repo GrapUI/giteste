@@ -24,5 +24,3 @@ Para arquivos deletados, é mostrada a categoria Deleted (D)
 ##
 E é claro, tudo que é feito ... pode ser checado posteriormente </br>
 ![image](https://user-images.githubusercontent.com/74252566/133834047-577167fb-df6d-4969-a59a-c40173b65029.png)
-
-Teste
