@@ -1,9 +1,11 @@
 # giteste
- Repositório versionado - Curso GIT e GITHUB
+Repositório versionado - Curso GIT e GITHUB
 
 Criado para testes de versionamento básico.
 
 Linhas podem ser alteradas diretamente no site, sem alterar o arquivo local.
+
+<h1>Entendendo arquivos de Commits com github</h1>
 
 ##
 Github-desktop faz a recomendação automática de realizar um pull
